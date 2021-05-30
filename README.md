@@ -1,3 +1,2 @@
-# Social Media
+# Social Media Website
 
-Link to website: https://socialmediamemories.netlify.app/
